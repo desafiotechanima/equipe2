@@ -1,0 +1,6 @@
+.dragging {
+	z-index: 111!important
+}
+.block {
+	z-index: 9
+}
