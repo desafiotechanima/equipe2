@@ -15,5 +15,5 @@ Linguagem utilizada
 
 Link
 ============
-📌 Pushpinhttps://www.figma.com/file/LOOYaEjfCrav23XqqQjyx3/Desafio-tech?node-id=0%3A1
+📌 https://www.figma.com/file/LOOYaEjfCrav23XqqQjyx3/Desafio-tech?node-id=0%3A1
   
