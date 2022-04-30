@@ -7,7 +7,7 @@ import EditProfile from "./Pages/Sistema/EditProfile.jsx";
 import ResetPassword from "./Pages/Sistema/ResetPassword.jsx";
 import ConfirmPassword from "./Pages/Sistema/ConfirmPassword.jsx";
 import ResetPasswordSuccess from "./Pages/Sistema/ResetPasswordSuccess.jsx";
-import Contatos from "./Pages/contatos.jsx"
+import conhecaPlataforma from "./Pages/conhecaPlataforma.jsx";
 
 
 
@@ -29,9 +29,9 @@ import Lista from './Pages/Lista';
 
 var routes = [ 
   {
-    path: "/contatos",
-    component: Contatos,
-    layout: "/admin",
+    path: "/conhecaPlataforma",
+    component: conhecaPlataforma,
+    layout: "/auth",
     api: false
   },
   {
